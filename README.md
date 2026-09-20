@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Lohithravi69/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Lohithravi69/leetcode/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Lohithravi69/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Lohithravi69/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Lohithravi69/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Lohithravi69/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Lohithravi69/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Lohithravi69/leetcode/tree/main/0268-missing-number/) | Easy |
