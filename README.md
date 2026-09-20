@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Lohithravi69/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Lohithravi69/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Lohithravi69/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Lohithravi69/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Lohithravi69/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lohithravi69/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lohithravi69/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Lohithravi69/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Lohithravi69/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lohithravi69/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lohithravi69/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
