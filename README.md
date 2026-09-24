@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lohithravi69/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Lohithravi69/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Lohithravi69/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Lohithravi69/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lohithravi69/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lohithravi69/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Lohithravi69/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Lohithravi69/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lohithravi69/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Lohithravi69/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lohithravi69/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lohithravi69/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Lohithravi69/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Lohithravi69/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Lohithravi69/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Lohithravi69/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +114,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Lohithravi69/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Lohithravi69/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Lohithravi69/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Lohithravi69/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Lohithravi69/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
