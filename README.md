@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Lohithravi69/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Lohithravi69/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Lohithravi69/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Lohithravi69/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lohithravi69/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Lohithravi69/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Lohithravi69/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -106,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Lohithravi69/leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Lohithravi69/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
